@@ -1,6 +1,6 @@
 package assignment2;
 
-class main {
+class countEevenNum {
     public static void main(String[] args) {
         int[] woo = {0, 1, 2, 3, 4};
 
